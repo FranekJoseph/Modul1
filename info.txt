@@ -1,3 +1,0 @@
-Python - 3.13.5
-Pip - 25.2
-IDE - VS code
